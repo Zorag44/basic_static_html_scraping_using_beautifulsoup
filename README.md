@@ -1,0 +1,1 @@
+# basic_static_html_scraping_using_beautifulsoup
